@@ -1,0 +1,23 @@
+{
+  "name": "cydaari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianeferreira18051995-pixel/cydaari-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianeferreira18051995-pixel/cydaari-teste/issues"
+  },
+  "homepage": "https://github.com/arianeferreira18051995-pixel/cydaari-teste#readme",
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}

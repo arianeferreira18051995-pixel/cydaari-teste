@@ -1,0 +1,2 @@
+# Ignora a pasta de dependências do Node
+node_modules
